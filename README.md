@@ -1,4 +1,6 @@
 # cv_generator
+My first website project.
+
 Generator CV. 
 
 I dropped this project, so there can be few problems with templates, but I think, that it's still interesting one.
